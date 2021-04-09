@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: ar15_n_db_Data
+  m_EditorClassIdentifier: 
+  dataName: ar15_n_db
+  dragonBonesJSON: {fileID: 4900000, guid: 50d8d851b286da142a6f6f69a84eb4ea, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 5c6d9c4099470d84d9fffe66854a712a, type: 3}
+    texture: {fileID: 2800000, guid: 55ff06b20110f464c8b047a6398f2fc0, type: 3}
+    material: {fileID: 2100000, guid: f204e26fb0021064ca2ed598c6382154, type: 2}
+    uiMaterial: {fileID: 0}

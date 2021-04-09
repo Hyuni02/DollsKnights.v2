@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: prowler_db_Data
+  m_EditorClassIdentifier: 
+  dataName: prowler_db
+  dragonBonesJSON: {fileID: 4900000, guid: 86394e872b6c91942be6f39efbdcd7be, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 4f391a941b60d1945a9f4c7b324b808e, type: 3}
+    texture: {fileID: 2800000, guid: fffe64e8108469f4c92b8f9292a4c639, type: 3}
+    material: {fileID: 2100000, guid: 1b509546b3f321e489d5a4661c79c258, type: 2}
+    uiMaterial: {fileID: 0}

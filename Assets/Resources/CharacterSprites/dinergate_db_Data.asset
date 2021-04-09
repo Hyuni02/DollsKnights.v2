@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: dinergate_db_Data
+  m_EditorClassIdentifier: 
+  dataName: dinergate_db
+  dragonBonesJSON: {fileID: 4900000, guid: 21d6d1deedbddb14ba08674f72ff088f, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: f39f3b03f87c85547b752291bc624f46, type: 3}
+    texture: {fileID: 2800000, guid: ce8ffc9000d20fe41854affe4ae5a5c3, type: 3}
+    material: {fileID: 2100000, guid: 28f4f17193cbdfe4ba5cb6b612b589e6, type: 2}
+    uiMaterial: {fileID: 0}

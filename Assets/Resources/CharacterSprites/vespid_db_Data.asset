@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: vespid_db_Data
+  m_EditorClassIdentifier: 
+  dataName: vespid_db
+  dragonBonesJSON: {fileID: 4900000, guid: 1f20c4b7586e19343ab84fd8a44328a9, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 1ad61464f82c3dc47a2caa0136ba338e, type: 3}
+    texture: {fileID: 2800000, guid: 5ad603b7489b36f4bbdbcf481122d459, type: 3}
+    material: {fileID: 2100000, guid: 2ad8462738aa5bb4bbafd1a66d740055, type: 2}
+    uiMaterial: {fileID: 0}
